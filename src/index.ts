@@ -1,3 +1,3 @@
-import SwipeButton from "./App";
+import SwipeButton from './App';
 
 export { SwipeButton };
